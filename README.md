@@ -1,6 +1,6 @@
-# Frontend do Learning Path
+# Backend do Learning Path
 
-BackEnd feito com Spring Boot para o learning path, projeto do estágio no LTI
+Backend feito com Spring Boot para o learning path, projeto do estágio no LTI
 
 ## Arquivos de configuração
 
